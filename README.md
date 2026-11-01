@@ -1,6 +1,6 @@
 # Disclaimer 
 Everything was done via chatgpt. We compiled sources on Ubuntu wsl, and it works on my nanoPi r3s + FriendlyWrt 25.12.5 installed on it, which I bought 3 month ago.
-It is not ready-to-go apk, but it has taken several hours to get it done. This instrunction - is a long story short of the whole AI context, so that it may have mistakes, or missing files\steps.
+It is not ready-to-go apk, but having spent several hours to get it done, i decided to grab everything together into this instrunction - as a long story short of the whole AI context, so that it may have mistakes, or missing files\steps.
 
 # AmneziaWG for FriendlyElec NanoPi R3S
 
