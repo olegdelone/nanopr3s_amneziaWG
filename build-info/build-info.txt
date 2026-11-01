@@ -1,0 +1,19 @@
+AmneziaWG backup for NanoPi R3S
+Created: Sun Nov  1 10:37:49 MSK 2026
+Target: FriendlyWrt 25.12.5
+Target kernel: 6.1.141
+Target architecture: aarch64
+
+Kernel module source: /home/lenovo/awg-build/amneziawg-linux-kernel-module/src/amneziawg.ko
+AWG binary source: /home/lenovo/awg-build/awg-tools-src/src/wg
+AWG binary is named wg in source tree and packaged as awg.
+
+Kernel module:
+/home/lenovo/awg-build/amneziawg-linux-kernel-module/src/amneziawg.ko: ELF 64-bit LSB relocatable, ARM aarch64, version 1 (SYSV), BuildID[sha1]=6a6ea7b5929f685ee10f719952d27907ae753916, with debug_info, not stripped
+
+AWG binary:
+/home/lenovo/awg-build/awg-tools-src/src/wg: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-musl-aarch64.so.1, with debug_info, not stripped
+
+SHA256:
+6e985213ca580dc052469d6d414198f3bc9e72f01204ff2f9848924d7e58a7fa  /home/lenovo/awg-build/amneziawg-linux-kernel-module/src/amneziawg.ko
+fed9558391112eecc7920f557af512353e928ca3cc599dbcd323fd1514d960ac  /home/lenovo/awg-build/awg-tools-src/src/wg
